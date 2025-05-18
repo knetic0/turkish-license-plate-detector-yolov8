@@ -1,0 +1,7 @@
+path: /Users/mehmetsolak/Desktop/work/personal-projects/turkish-license-plate-detector/dataset/archive
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
