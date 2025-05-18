@@ -2,6 +2,8 @@
 
 This repository contains a Streamlit-based web application for real-time object detection using a custom-trained YOLO model. The app allows users to upload images, run predictions, and visualize bounding boxes directly in the browser.
 
+![Ekran Kaydı 2025-05-18 16 20 01 (2)](https://github.com/user-attachments/assets/639d5927-db1a-41eb-b710-37cc9998c366)
+
 ### Features
 
 * Upload images via the web interface
