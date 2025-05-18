@@ -4,6 +4,12 @@ This repository contains a Streamlit-based web application for real-time object 
 
 ![Ekran Kaydı 2025-05-18 16 20 01 (2)](https://github.com/user-attachments/assets/639d5927-db1a-41eb-b710-37cc9998c366)
 
+<img width="1512" alt="Ekran Resmi 2025-05-18 16 53 16" src="https://github.com/user-attachments/assets/4ec5dc94-304d-4129-8205-b0009c27e329" />
+
+<img width="1512" alt="Ekran Resmi 2025-05-18 16 53 33" src="https://github.com/user-attachments/assets/f8134c84-2d29-4f66-9186-83c860e85969" />
+
+<img width="1512" alt="Ekran Resmi 2025-05-18 16 53 39" src="https://github.com/user-attachments/assets/9ebaa3a8-dcc6-4868-a60e-9584f851374e" />
+
 ### Features
 
 * Upload images via the web interface
